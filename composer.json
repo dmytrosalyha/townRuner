@@ -1,0 +1,13 @@
+{
+    "repositories":[
+        {
+            "type":"git",
+            "url":"http://github.com/salyga/townClasses"
+        }        
+    ],
+
+    "require":{
+        "php":">=5.3.0",
+        "salyga/townClasses":"1.0.*"
+    }
+}

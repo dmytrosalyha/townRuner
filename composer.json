@@ -2,7 +2,7 @@
     "repositories":[
         {
             "type":"git",
-            "url":"https://github.com/salyga/townClasses"
+            "url":"http://github.com/salyga/townClasses"
         }        
     ],
 
